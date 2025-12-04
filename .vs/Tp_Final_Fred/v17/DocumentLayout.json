@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\tp_final_fred.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:tp_final_fred.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\viewmodels\\configviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:viewmodels\\configviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\views\\configwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:views\\configwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\views\\configwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:views\\configwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T05:07:57.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:07:55.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigService.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Services\\ConfigService.cs",
+              "RelativeDocumentMoniker": "Services\\ConfigService.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Services\\ConfigService.cs",
+              "RelativeToolTip": "Services\\ConfigService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:18:17.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tp_Final_Fred",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Tp_Final_Fred.csproj",
+              "RelativeDocumentMoniker": "Tp_Final_Fred.csproj",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Tp_Final_Fred.csproj",
+              "RelativeToolTip": "Tp_Final_Fred.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T05:09:12.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\ConfigWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ConfigWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\ConfigWindow.xaml.cs",
+              "RelativeToolTip": "Views\\ConfigWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:19:22.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\config.json",
+              "RelativeDocumentMoniker": "config.json",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\config.json",
+              "RelativeToolTip": "config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T05:17:38.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\ViewModels\\ConfigViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ConfigViewModel.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\ViewModels\\ConfigViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ConfigViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:19:41.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\ConfigWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\ConfigWindow.xaml",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\ConfigWindow.xaml",
+              "RelativeToolTip": "Views\\ConfigWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T05:18:59.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T05:11:57.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:11:07.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
