@@ -3,6 +3,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
+using System.Windows;
 using Tp_Final_Fred.Data.Repositories.Interfaces;
 using Tp_Final_Fred.Models;
 using Tp_Final_Fred.Services;
@@ -79,7 +80,7 @@ namespace Tp_Final_Fred.ViewModels
             SelectedRegion = Regions.First();
         }
 
-        public async void AddRegion()
+        public async Task AddRegion()
         {
             if (string.IsNullOrWhiteSpace(RegionName))
                 return;
@@ -101,6 +102,7 @@ namespace Tp_Final_Fred.ViewModels
             Longitude = 0;
         }
 
+
         public async Task LoadWeather(double lat, double lon)
         {
             var config = ConfigService.Load();
@@ -117,5 +119,30 @@ namespace Tp_Final_Fred.ViewModels
         public event PropertyChangedEventHandler? PropertyChanged;
         private void OnPropertyChanged([CallerMemberName] string? p = null)
             => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(p));
+
+
+        public async Task DeleteSelectedRegion()
+        {
+            if (SelectedRegion == null)
+                return;
+
+            var result = MessageBox.Show(
+                $"Supprimer la région '{SelectedRegion.Name}' ?",
+                "Confirmation",
+                MessageBoxButton.YesNo,
+                MessageBoxImage.Warning
+            );
+
+            if (result != MessageBoxResult.Yes)
+                return;
+
+            await _regionRepo.DeleteAsync(SelectedRegion);
+
+            Regions.Remove(SelectedRegion);
+            SelectedRegion = null;
+        }
+
     }
+
+
 }

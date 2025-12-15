@@ -22,12 +22,12 @@
             <TextBox Text="{Binding ApiKey}" Width="250"/>
         </StackPanel>
 
-        <Button Content="Enregistrer"
-                Grid.Row="2"
-                HorizontalAlignment="Right"
-                Width="120" Height="30"
-                Margin="0,20,0,0"
-                Click="Save_Click"/>
+        <Button Grid.Row="2"
+                Content="Enregistrer"
+                HorizontalAlignment="Left"
+                Width="98"
+                Margin="262,30,0,30"
+                Command="{Binding SaveCommand}" />
 
     </Grid>
 </Window>

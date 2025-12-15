@@ -1,47 +1,61 @@
-﻿using System.Collections.ObjectModel;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
+using System.Windows.Input;
 using Tp_Final_Fred.Services;
+using System.Collections.ObjectModel;
+
 
 namespace Tp_Final_Fred.ViewModels
 {
     public class ConfigViewModel : INotifyPropertyChanged
     {
-        public ObservableCollection<string> Languages { get; } =
-            new ObservableCollection<string> { "fr", "en" };
-
         private string _language;
+        private string _apiKey;
+
+        public event Action? CloseRequested;
+
+
         public string Language
         {
             get => _language;
             set { _language = value; OnPropertyChanged(); }
         }
 
-        private string _apiKey;
         public string ApiKey
         {
             get => _apiKey;
             set { _apiKey = value; OnPropertyChanged(); }
         }
 
-        private AppConfig _config;
+        public ICommand SaveCommand { get; }
 
         public ConfigViewModel()
         {
-            _config = ConfigService.Load();
-            Language = _config.Language;
-            ApiKey = _config.ApiKey;
+            var config = ConfigService.Load();
+
+            Language = config.Language;
+            ApiKey = config.ApiKey;
+
+            SaveCommand = new RelayCommand(Save);
         }
 
-        public void Save()
+        private void Save()
         {
-            _config.Language = Language;
-            _config.ApiKey = ApiKey;
-            ConfigService.Save(_config);
+            ConfigService.Save(new AppConfig
+            {
+                Language = Language,
+                ApiKey = ApiKey
+            });
+
+            CloseRequested?.Invoke();
         }
 
-        public event PropertyChangedEventHandler PropertyChanged;
-        void OnPropertyChanged([CallerMemberName] string p = null)
+        public event PropertyChangedEventHandler? PropertyChanged;
+        private void OnPropertyChanged([CallerMemberName] string? p = null)
             => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(p));
+
+        public ObservableCollection<string> Languages { get; }
+            = new ObservableCollection<string> { "fr", "en" };
+
     }
 }

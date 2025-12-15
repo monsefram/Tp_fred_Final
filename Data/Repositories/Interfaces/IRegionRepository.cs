@@ -9,5 +9,6 @@ namespace Tp_Final_Fred.Data.Repositories.Interfaces
         List<Region> GetAll();
         Task<List<Region>> GetAllAsync();
         Task<Region> AddAsync(Region region);
+        Task DeleteAsync(Region region);
     }
 }

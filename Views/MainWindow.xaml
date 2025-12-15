@@ -43,6 +43,11 @@
                 <Button Content="+" Width="40" Height="40"
                         Margin="0,10,0,0"
                         Click="AddRegion_Click"/>
+
+                <Button Content="Supprimer"
+                        Click="DeleteRegion_Click"/>
+
+
             </StackPanel>
 
 

@@ -1,6 +1,5 @@
-﻿using Newtonsoft.Json;
-using System.IO;
-using System.Xml;
+﻿using System.IO;
+using System.Text.Json;
 
 namespace Tp_Final_Fred.Services
 {
@@ -12,25 +11,29 @@ namespace Tp_Final_Fred.Services
 
     public static class ConfigService
     {
-        private static readonly string _path = "config.json";
+        private static readonly string FilePath =
+            Path.Combine(
+                Environment.GetFolderPath(Environment.SpecialFolder.UserProfile),
+                "Tp_Final_Fred.config.json"
+            );
 
         public static AppConfig Load()
         {
-            if (!File.Exists(_path))
-            {
-                var defaultConfig = new AppConfig();
-                Save(defaultConfig);
-                return defaultConfig;
-            }
+            if (!File.Exists(FilePath))
+                return new AppConfig();
 
-            var json = File.ReadAllText(_path);
-            return JsonConvert.DeserializeObject<AppConfig>(json);
+            var json = File.ReadAllText(FilePath);
+            return JsonSerializer.Deserialize<AppConfig>(json)!;
         }
 
         public static void Save(AppConfig config)
         {
-            var json = JsonConvert.SerializeObject(config, Newtonsoft.Json.Formatting.Indented);
-            File.WriteAllText(_path, json);
+            var json = JsonSerializer.Serialize(config, new JsonSerializerOptions
+            {
+                WriteIndented = true
+            });
+
+            File.WriteAllText(FilePath, json);
         }
     }
 }

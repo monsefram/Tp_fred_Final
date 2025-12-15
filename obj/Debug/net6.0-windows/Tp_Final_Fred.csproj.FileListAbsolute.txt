@@ -83,3 +83,9 @@ C:\Users\ramha\OneDrive\Bureau\freed\Tp_Final_Fred\bin\Debug\net6.0-windows\Syst
 C:\Users\ramha\OneDrive\Bureau\freed\Tp_Final_Fred\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\ramha\OneDrive\Bureau\freed\Tp_Final_Fred\bin\Debug\net6.0-windows\di.json
 C:\Users\ramha\OneDrive\Bureau\freed\Tp_Final_Fred\obj\Debug\net6.0-windows\Tp_Final_Fred_Content.g.cs
+C:\Users\ramha\OneDrive\Bureau\freed\Tp_Final_Fred\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\ramha\OneDrive\Bureau\freed\Tp_Final_Fred\bin\Debug\net6.0-windows\Moq.dll
+C:\Users\ramha\OneDrive\Bureau\freed\Tp_Final_Fred\bin\Debug\net6.0-windows\xunit.abstractions.dll
+C:\Users\ramha\OneDrive\Bureau\freed\Tp_Final_Fred\bin\Debug\net6.0-windows\xunit.assert.dll
+C:\Users\ramha\OneDrive\Bureau\freed\Tp_Final_Fred\bin\Debug\net6.0-windows\xunit.core.dll
+C:\Users\ramha\OneDrive\Bureau\freed\Tp_Final_Fred\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll

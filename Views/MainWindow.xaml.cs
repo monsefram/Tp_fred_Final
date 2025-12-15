@@ -1,6 +1,7 @@
 ﻿using Autofac;
 using System.Windows;
 using Tp_Final_Fred.ViewModels;
+using Tp_Final_Fred.Views;
 
 namespace Tp_Final_Fred
 {
@@ -13,22 +14,29 @@ namespace Tp_Final_Fred
         }
 
         // Bouton +
-        private void AddRegion_Click(object sender, RoutedEventArgs e)
+        private async void AddRegion_Click(object sender, RoutedEventArgs e)
         {
             if (DataContext is MainViewModel vm)
             {
-                vm.AddRegion();
+                await vm.AddRegion();
             }
         }
 
-        // Menu Configuration (on fera la fenêtre plus tard)
+
         private void OpenConfig_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show(
-                "Fenêtre de configuration à venir",
-                "Configuration",
-                MessageBoxButton.OK,
-                MessageBoxImage.Information);
+            var win = new ConfigWindow();
+            win.ShowDialog();
         }
+
+
+        private async void DeleteRegion_Click(object sender, RoutedEventArgs e)
+        {
+            if (DataContext is MainViewModel vm)
+                await vm.DeleteSelectedRegion();
+        }
+
+
+
     }
 }

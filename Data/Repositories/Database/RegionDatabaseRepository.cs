@@ -28,5 +28,11 @@ namespace Tp_Final_Fred.Data.Repositories.Database
             await _context.SaveChangesAsync();
             return region;
         }
+
+        public async Task DeleteAsync(Region region)
+        {
+            _context.Regions.Remove(region);
+            await _context.SaveChangesAsync();
+        }
     }
 }
