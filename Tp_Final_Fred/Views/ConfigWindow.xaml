@@ -1,0 +1,22 @@
+﻿<Window x:Class="Tp_Final_Fred.Views.ConfigWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Configuration" Width="400" Height="250">
+
+    <StackPanel Margin="20">
+
+        <TextBlock Text="Langue" FontWeight="Bold"/>
+        <ComboBox ItemsSource="{Binding Languages}"
+                  SelectedItem="{Binding Language}"
+                  Margin="0,5,0,15"/>
+
+        <TextBlock Text="API Key" FontWeight="Bold"/>
+        <TextBox Text="{Binding ApiKey}"
+                 Margin="0,5,0,20"/>
+
+        <Button Content="Enregistrer"
+                Command="{Binding SaveCommand}"
+                Width="120"
+                HorizontalAlignment="Right"/>
+    </StackPanel>
+</Window>

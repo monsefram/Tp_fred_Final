@@ -1,0 +1,21 @@
+{
+  "defaultAssembly": "Tp_Final_Fred",
+  "components": [
+    {
+      "type": "Tp_Final_Fred.Data.MeteoDbContext",
+      "services": [
+        { "type": "Tp_Final_Fred.Data.MeteoDbContext" }
+      ],
+      "instanceScope": "single-instance"
+    },
+    {
+      "type": "Tp_Final_Fred.Data.Repositories.Database.RegionDatabaseRepository",
+      "services": [
+        { "type": "Tp_Final_Fred.Data.Repositories.Interfaces.IRegionRepository" }
+      ]
+    },
+    {
+      "type": "Tp_Final_Fred.ViewModels.MainViewModel"
+    }
+  ]
+}
