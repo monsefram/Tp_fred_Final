@@ -1,0 +1,8 @@
+﻿<Application x:Class="Tp_Final_Fred.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Tp_Final_Fred">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

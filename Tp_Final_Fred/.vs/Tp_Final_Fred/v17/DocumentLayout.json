@@ -1,0 +1,480 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\views\\configwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:views\\configwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\views\\configwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:views\\configwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\viewmodels\\configviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:viewmodels\\configviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\services\\weathericonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:services\\weathericonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\models\\weatherday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:models\\weatherday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\models\\weatherbitresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:models\\weatherbitresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\data\\repositories\\interfaces\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:data\\repositories\\interfaces\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\data\\repositories\\database\\regiondatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:data\\repositories\\database\\regiondatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\data\\meteodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:data\\meteodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\properties\\resources-en-us.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:properties\\resources-en-us.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\tp_final_fred.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:tp_final_fred.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\tp_final_fred.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:tp_final_fred.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\properties\\resources-en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:properties\\resources-en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\icon\\meteo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:icon\\meteo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|c:\\users\\ramha\\onedrive\\bureau\\freed\\tp_final_fred\\di.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D05EA9B-CBA4-4076-8CE8-183F2FFD6559}|Tp_Final_Fred.csproj|solutionrelative:di.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 985,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:33:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:33:15.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\ConfigWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\ConfigWindow.xaml",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\ConfigWindow.xaml",
+              "RelativeToolTip": "Views\\ConfigWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T20:53:43.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\ConfigWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ConfigWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\ConfigWindow.xaml.cs",
+              "RelativeToolTip": "Views\\ConfigWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:54:21.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:48:50.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:15:27.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T20:55:20.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\ViewModels\\ConfigViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ConfigViewModel.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\ViewModels\\ConfigViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ConfigViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:11:59.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherIconConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Services\\WeatherIconConverter.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherIconConverter.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Services\\WeatherIconConverter.cs",
+              "RelativeToolTip": "Services\\WeatherIconConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T01:18:52.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Services\\WeatherService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:11:51.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherDay.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Models\\WeatherDay.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherDay.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Models\\WeatherDay.cs",
+              "RelativeToolTip": "Models\\WeatherDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:32:25.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherbitResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Models\\WeatherbitResponse.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherbitResponse.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Models\\WeatherbitResponse.cs",
+              "RelativeToolTip": "Models\\WeatherbitResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:32:24.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAcwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:34:27.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Models\\Region.cs",
+              "RelativeDocumentMoniker": "Models\\Region.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Models\\Region.cs",
+              "RelativeToolTip": "Models\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:32:22.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Data\\Repositories\\Interfaces\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IRegionRepository.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Data\\Repositories\\Interfaces\\IRegionRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IRegionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:32:16.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MeteoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Data\\MeteoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MeteoDbContext.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Data\\MeteoDbContext.cs",
+              "RelativeToolTip": "Data\\MeteoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:32:06.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-18T00:48:53.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T01:18:51.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegionDatabaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Data\\Repositories\\Database\\RegionDatabaseRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Database\\RegionDatabaseRepository.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Data\\Repositories\\Database\\RegionDatabaseRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Database\\RegionDatabaseRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T01:20:46.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Resources-en-US.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Properties\\Resources-en-US.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources-en-US.Designer.cs",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Properties\\Resources-en-US.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources-en-US.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T01:18:44.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T20:57:49.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tp_Final_Fred",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Tp_Final_Fred.csproj",
+              "RelativeDocumentMoniker": "Tp_Final_Fred.csproj",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Tp_Final_Fred.csproj",
+              "RelativeToolTip": "Tp_Final_Fred.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T20:35:56.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Tp_Final_Fred.csproj",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Tp_Final_Fred.csproj",
+              "RelativeDocumentMoniker": "Tp_Final_Fred.csproj",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Tp_Final_Fred.csproj",
+              "RelativeToolTip": "Tp_Final_Fred.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T20:35:53.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-12-17T20:36:03.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Resources-en-US.resx",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Properties\\Resources-en-US.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources-en-US.resx",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\Properties\\Resources-en-US.resx",
+              "RelativeToolTip": "Properties\\Resources-en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-17T21:56:31.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "meteo.ico - Icon [256x256, 32\u00A0bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\icon\\meteo.ico",
+              "RelativeDocumentMoniker": "icon\\meteo.ico",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\icon\\meteo.ico - Icon [256x256, 32\u00A0bits, PNG]",
+              "RelativeToolTip": "icon\\meteo.ico - Icon [256x256, 32\u00A0bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-12-18T00:22:30.422Z",
+              "EditorCaption": " - Icon [256x256, 32\u00A0bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "di.json",
+              "DocumentMoniker": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\di.json",
+              "RelativeDocumentMoniker": "di.json",
+              "ToolTip": "C:\\Users\\ramha\\OneDrive\\Bureau\\freed\\Tp_Final_Fred\\di.json",
+              "RelativeToolTip": "di.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T20:25:02.717Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 518,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
